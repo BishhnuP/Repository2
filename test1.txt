@@ -1,0 +1,10 @@
+ Volume in drive C is TIS0008500E
+ Volume Serial Number is 685A-3916
+
+ Directory of C:\Users\Bishnu Paudel\Desktop\Github Project
+
+03/12/2018  05:20 PM    <DIR>          .
+03/12/2018  05:20 PM    <DIR>          ..
+03/12/2018  05:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  302,473,572,352 bytes free
